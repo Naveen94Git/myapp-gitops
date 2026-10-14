@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/YOUR_ORG/myapp-gitops.git
+    repoURL: https://github.com/Naveen94Git/myapp-gitops.git
     targetRevision: main
     path: apps/myapp
     helm:
